@@ -9,4 +9,6 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 
 ### 1 Intro, Notes & Section 4 Assets ###
 
-+ Battle Tank is an open world tank fight
++ BT01 Battle Tank is an open world tank fight
++ BT02 Game Design Document (GDD)
++ BT03 Setting Up a GitHub "Repo"
